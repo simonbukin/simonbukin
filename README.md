@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello!
+
+I'm a UX Engineer focused on creating excellent experiences focused on users. I'm passionate about optimizizing user experiences and exploring the rabbit hole that is frontend web development.
+
+- 🌱 I've been learning Svelte + SvelteKit and have been loving it. My [new (WIP) personal website](https://personal-website-bay-eight.vercel.app/) is built with it!
+- 💬 Ask me about UX, the quest for a perfect espresso shot, and how to find obscure music.
+- 📫 Drop me [a line](mailto:from-github@sbukin.anonaddy.com)
+
+## Portfolio
+- Amazon SageMaker RStudio Onboarding [link](https://www.simonbukin.com/sagemaker-onboarding)
+- Protecting Google Cloud Customers [link](https://www.simonbukin.com/gcs-data)
 
 <!--
 **simonbukin/simonbukin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
