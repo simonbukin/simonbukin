@@ -7,7 +7,7 @@ I'm a UX Engineer focused on creating excellent experiences focused on users. I'
 - 📫 Drop me [a line](mailto:from-github@sbukin.anonaddy.com)
 
 ## Portfolio
-- Amazon SageMaker RStudio Onboarding [link](https://www.simonbukin.com/portfolio/gcs-security)
+- Amazon SageMaker RStudio Onboarding [link](https://www.simonbukin.com/portfolio/sagemaker-onboarding)
 - Protecting Google Cloud Customers [link](https://www.simonbukin.com/portfolio/gcs-security)
 
 <!--
