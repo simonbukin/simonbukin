@@ -7,8 +7,8 @@ I'm a UX Engineer focused on creating excellent experiences focused on users. I'
 - 📫 Drop me [a line](mailto:from-github@sbukin.anonaddy.com)
 
 ## Portfolio
-- Amazon SageMaker RStudio Onboarding [link](https://www.simonbukin.com/portfolio/sagemaker-onboarding)
-- Protecting Google Cloud Customers [link](https://www.simonbukin.com/portfolio/gcs-security)
+- [eng 🧑‍💻] Amazon SageMaker RStudio Onboarding [link](https://www.simonbukin.com/portfolio/sagemaker-onboarding)
+- [design 🎨] Protecting Google Cloud Customers [link](https://www.simonbukin.com/portfolio/gcs-security)
 
 <!--
 **simonbukin/simonbukin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
