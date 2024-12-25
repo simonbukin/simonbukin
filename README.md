@@ -4,7 +4,6 @@ I'm a UX Engineer focused on creating excellent experiences focused on users. I'
 
 - 🌱 I've been learning Svelte / SvelteKit this year and have been having a blast. My [personal website](https://www.simonbukin.com) is built with it!
 - 🔭 I got married this year, and  developed an [RSVP tracking website](https://simonandkaylawedd.ing) with Astro & Supabase. This previously existed as a Solid, NextJS, and a plain React app.
-- 💬 Ask me about UX and obscure bands 🙂
 - 📫 Drop me [a line](mailto:from-github@sbukin.anonaddy.com)
 
 ## Portfolio
